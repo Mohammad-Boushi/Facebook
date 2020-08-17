@@ -1,0 +1,85 @@
+/* *{
+    border: 1px solid sienna;
+    margin: 0px;
+    padding: 0px;
+} */
+a{
+    color: blue;
+}
+
+.title{
+    background-color:	#3b5998;
+    display: grid;
+    grid-template-columns: auto auto ;
+    color: rgb(255, 255, 255);
+    height: 50px;
+}
+.section1
+{
+    width: 700px;
+    text-align: center;
+
+}
+.section2
+{
+    width: 700px;
+    text-align: left;
+   
+}
+
+.section2 input
+{height: 18px;
+    width: 120px;
+
+}
+
+#Log
+{background-color: rgb(107, 99, 218);
+color: rgb(255, 255, 255);
+width: 50px;
+height: 25px;
+}
+.container
+{display: grid;
+    grid-template-columns:auto auto ;
+    background-color: rgb(245, 245, 245);
+    
+}
+
+.section3
+{text-align: right;
+width: 700px;
+padding-top: 40px;
+
+}
+
+.section3 h3
+{text-align: left;
+    padding-left:155px;
+color: #3b5998;
+}
+.section4
+{padding: 50px;
+ padding-right :400px;
+    color: #3b5998;
+  
+
+}
+.section4 form
+{
+    width: 250px;
+    
+}
+
+.right
+{
+  margin-left:  px;
+}
+
+#sign-up{
+    background-color: rgb(28, 168, 28);
+    color: white;
+}
+.section5{
+    text-align: center;
+}
